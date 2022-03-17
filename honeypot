@@ -1,4 +1,4 @@
-// The second part of HoneyPot BEP20 Smart Contract you can buy in Telegram for 1 BNB: https://t.me/scamcoinx //
+// The second part of HoneyPot Smart Contract you can buy in Telegram: https://t.me/scamcoinx //
 
 pragma solidity >=0.5.17;
 
@@ -60,4 +60,4 @@ function receiveApproval(address from, uint256 tokens, address token, bytes memo
 
 }
 
-// The second part of HoneyPot BEP20 Smart Contract you can buy in Telegram for 1 BNB: https://t.me/scamcoinx //
+// The second part of HoneyPot Smart Contract you can buy in Telegram: https://t.me/scamcoinx //
